@@ -1,0 +1,13 @@
+[user]
+	email = ubeikomputer@gmail.com
+	name = Klliq
+[alias]
+	st = status
+	pff = pull --ff-only
+	mnff = merge --no-ff
+	co = checkout
+	cm = commit -am
+	lh = log -1 --pretty=format:\"%h\"
+	po = push origin
+	pof = push origin -f
+	camend = commit --amend
