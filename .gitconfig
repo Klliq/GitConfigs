@@ -11,3 +11,4 @@
 	po = push origin
 	pof = push origin -f
 	camend = commit --amend
+	
